@@ -176,7 +176,7 @@ public class SignUP extends javax.swing.JFrame {
         jLabel15.setFont(new java.awt.Font("Segoe UI Light", 0, 12)); // NOI18N
         jLabel15.setText("Account type");
 
-        accountype.setModel(new javax.swing.DefaultComboBoxModel<>(new String[] { "user", "Admin" }));
+        accountype.setModel(new javax.swing.DefaultComboBoxModel<>(new String[] { "user", "admin" }));
         accountype.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
                 accountypeActionPerformed(evt);

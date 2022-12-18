@@ -3,6 +3,7 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/GUIForms/JFrame.java to edit this template
  */
 package inventory_system;
+
 import java.sql.*;
 import java.util.logging.Level;
 import java.util.logging.Logger;

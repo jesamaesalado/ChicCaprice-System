@@ -700,6 +700,7 @@ display();
     }//GEN-LAST:event_jButton7ActionPerformed
 
     private void jButton11ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton11ActionPerformed
+        new admin_dashboard().setVisible(true);
         dispose();
     }//GEN-LAST:event_jButton11ActionPerformed
 
